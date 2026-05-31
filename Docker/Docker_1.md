@@ -1,4 +1,3 @@
-Below are polished, structured, and interview-friendly notes from **Day 23 – Introduction to Containers**. The content has been reorganized for learning, revision, and documentation purposes, with diagrams and comparison charts for clarity.
 
 # 🚀 Day 23: Introduction to Containers
 
