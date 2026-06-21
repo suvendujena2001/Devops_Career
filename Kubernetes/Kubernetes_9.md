@@ -1,4 +1,5 @@
 # Kubernetes RBAC (Role-Based Access Control) — Comprehensive Notes
+**GOAL**
 > **Topic:** Kubernetes RBAC + Free 30-Day OpenShift Sandbox Cluster
 
 ---
