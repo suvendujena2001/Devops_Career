@@ -163,7 +163,7 @@ These stages may vary depending on:
 
 ### Step 4
 
-Once CI completes,
+Once CI is completed,
 
 Jenkins triggers the Continuous Delivery system.
 
