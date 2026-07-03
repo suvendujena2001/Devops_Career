@@ -2,7 +2,7 @@
 
 # ConfigMaps & Secrets in Kubernetes
 
-### Complete Study Notes with Diagrams, Interview Points & Practical Demonstration
+### Complete Study Notes with Diagrams, Interview Points & Practical Demonstration.
 
 ---
 
