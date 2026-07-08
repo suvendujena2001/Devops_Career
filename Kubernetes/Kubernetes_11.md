@@ -1,6 +1,6 @@
 # 📘 Day 41 - Kubernetes Live Project
 
-# ConfigMaps & Secrets in Kubernetes
+# ConfigMaps & Secrets in Kubernetes.
 
 ### Complete Study Notes with Diagrams, Interview Points & Practical Demonstration.
 
