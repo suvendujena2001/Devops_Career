@@ -24,7 +24,7 @@
 14. Secret Creation
 15. Security Best Practices
 16. Interview Questions
-17. Key Takeaways
+17. Key Takeaways.
 
 ---
 
